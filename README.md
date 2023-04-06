@@ -8,7 +8,7 @@
       <img src="https://github.com/Wedlec129/converImgBmpToPNG/blob/main/11.png" width="726">
 </p>
 <p align="center">
-      <img src="ttps://github.com/Wedlec129/converImgBmpToPNG/blob/main/12.png" width="726">
+      <img src="https://github.com/Wedlec129/converImgBmpToPNG/blob/main/12.png" width="726">
 </p>
 
 
